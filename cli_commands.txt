@@ -1,0 +1,10 @@
+aws s3 cp index.html s3://my-resume-cicd-beta/ --acl public-read
+aws s3 cp favicon.png s3://my-resume-cicd-beta/ --acl public-read
+aws s3 cp images s3://my-resume-cicd-beta/images --recursive --acl public-read
+aws s3 cp css s3://my-resume-cicd-beta/css --recursive --acl public-read
+
+aws s3 cp index.html s3://my-resume-cicd-prod/ --acl public-read
+aws s3 cp favicon.png s3://my-resume-cicd-prod/ --acl public-read
+aws s3 cp images s3://my-resume-cicd-prod/images --recursive --acl public-read
+aws s3 cp css s3://my-resume-cicd-prod/css --recursive --acl public-read
+
