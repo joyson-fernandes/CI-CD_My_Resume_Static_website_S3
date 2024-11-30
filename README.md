@@ -1,29 +1,9 @@
-# CI-CD_My_Resume_Static_website_S3
-
-
-> medium-to-markdown@0.0.3 convert
-> node index.js https://joysonfernandes.medium.com/building-a-ci-cd-pipeline-for-hosting-resume-websites-on-s3-using-github-and-aws-codepipeline-eae80d50b3a6
-
 Building a CI/CD Pipeline for Hosting Resume Websites on S3 Using GitHub and AWS CodePipeline
 =============================================================================================
 
 [![Joyson Fernandes](https://miro.medium.com/v2/resize:fill:88:88/1*2qYR-0r7vQTej6kjWjexpQ.png)
+[Joyson Fernandes](https://joysonfernandes.medium.com/building-a-ci-cd-pipeline-for-hosting-resume-websites-on-s3-using-github-and-aws-codepipeline-eae80d50b3a6)
 
-](https://medium.com/?source=post_page---byline--eae80d50b3a6--------------------------------)
-
-[Joyson Fernandes](https://medium.com/?source=post_page---byline--eae80d50b3a6--------------------------------)
-
-┬À
-
-[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F59fe078e2cb4&operation=register&redirect=https%3A%2F%2Fjoysonfernandes.medium.com%2Fbuilding-a-ci-cd-pipeline-for-hosting-resume-websites-on-s3-using-github-and-aws-codepipeline-eae80d50b3a6&user=Joyson+Fernandes&userId=59fe078e2cb4&source=post_page-59fe078e2cb4--byline--eae80d50b3a6---------------------post_header-----------)
-
-8 min read┬ÀNov 7, 2024
-
-\--
-
-Listen
-
-Share
 
 What is Continuous Integration (CI) and Continuous Delivery (CD)?
 -----------------------------------------------------------------
@@ -352,4 +332,4 @@ Step 13: Verify CloudFront Distribution
 > 
 > GitHub Repo Link: [joyson-fernandes/my-static-resume-website](https://github.com/joyson-fernandes/my-static-resume-website)
 
-_If this post was helpful, please click the clap ­ƒæÅ button below a few times to show your support! Ô¼ç_
+If this post was helpful, please click the clap ­ƒæÅ button below a few times to show your support!
